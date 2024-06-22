@@ -79,6 +79,12 @@ a, i {
     height: auto;
 }
 
+/* Icons */
+
+.icons i{
+    font-size: 35px;
+}
+
 @media (min-width: 768px) {
     .main-image {
         height: 400px;
