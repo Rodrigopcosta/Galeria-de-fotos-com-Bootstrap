@@ -2,6 +2,14 @@
 
 Página estática e responsiva para exibir fotografias e obras de arte urbana.
 
+Desktop:
+[Desktop banner](./screenshots/desktop.png)
+
+Mobile:
+
+[Desktop banner](./screenshots/mobile.png)
+
+
 ## Resumo
 - Versão estática: HTML, CSS e Bootstrap.
 - Responsivo para desktop e mobile.
