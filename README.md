@@ -2,6 +2,8 @@
 
 Página estática e responsiva para exibir fotografias e obras de arte urbana.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ### Desktop:
 ![Desktop banner](./screenshots/desktop.png)
 
@@ -76,5 +78,4 @@ npm start
 ## Autor
 Feito com carinho por Rodrigo Costa.
 
-## Licença
-MIT — arquivo LICENSE incluso.
+
