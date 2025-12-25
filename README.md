@@ -2,12 +2,12 @@
 
 Página estática e responsiva para exibir fotografias e obras de arte urbana.
 
-Desktop:
-[Desktop banner](./screenshots/desktop.png)
+### Desktop:
+![Desktop banner](./screenshots/desktop.png)
 
-Mobile:
 
-[Desktop banner](./screenshots/mobile.png)
+### Mobile:
+![Desktop banner](./screenshots/mobile.png)
 
 
 ## Resumo
@@ -74,7 +74,7 @@ npm start
 ```
 
 ## Autor
-Rodrigo Costa
+Feito com carinho por Rodrigo Costa.
 
 ## Licença
 MIT — arquivo LICENSE incluso.
