@@ -1,6 +1,6 @@
 # Art — Exibição de arte urbana
 
-Página estática e responsiva para exibir fotografias e obras de arte urbana.
+Projeto front-end de página estática e responsiva para exibição de fotografias e obras de arte urbana, desenvolvido com Bootstrap, com foco em layout moderno, grid responsivo, boas práticas de HTML semântico e usabilidade em dispositivos desktop e mobile.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -11,10 +11,6 @@ Página estática e responsiva para exibir fotografias e obras de arte urbana.
 ### Mobile:
 ![Desktop banner](./screenshots/mobile.png)
 
-
-## Resumo
-- Versão estática: HTML, CSS e Bootstrap.
-- Responsivo para desktop e mobile.
 
 ## O que foi usado
 - HTML5
